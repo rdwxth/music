@@ -1,0 +1,153 @@
+{
+  "status": "<content>",
+  "message": "<content>",
+  "data": {
+    "albums": [
+      {
+        "id": "<content>",
+        "name": "<content>",
+        "year": "<content>",
+        "type": "<content>",
+        "playCount": "<content>",
+        "language": "<content>",
+        "explicitContent": "<content>",
+        "songCount": "<content>",
+        "url": "<content>",
+        "primaryArtists": [],
+        "featuredArtists": [],
+        "artists": [
+          {
+            "id": "<content>",
+            "name": "<content>",
+            "url": "<content>",
+            "image": "<content>",
+            "type": "<content>",
+            "role": "<content>",
+          }
+        ],
+        "image": [
+          {
+            "quality": "<content>",
+            "link": "<content>",
+          }
+        ],
+        "songs": [],
+      }
+    ],
+    "playlists": [
+      {
+        "id": "<content>",
+        "userId": "<content>",
+        "title": "<content>",
+        "subtitle": "<content>",
+        "type": "<content>",
+        "image": [
+          {
+            "quality": "<content>",
+            "link": "<content>",
+          }
+        ],
+        "url": "<content>",
+        "songCount": "<content>",
+        "firstname": "<content>",
+        "followerCount": "<content>",
+        "lastUpdated": "<content>",
+        "explicitContent": "<content>",
+      }
+    ],
+    "charts": [
+      {
+        "id": "<content>",
+        "title": "<content>",
+        "subtitle": "<content>",
+        "type": "<content>",
+        "image": [
+          {
+            "quality": "<content>",
+            "link": "<content>",
+          }
+        ],
+        "url": "<content>",
+        "firstname": "<content>",
+        "explicitContent": "<content>",
+        "language": "<content>",
+      }
+    ],
+    "trending": {
+      "songs": [
+        {
+          "id": "<content>",
+          "name": "<content>",
+          "type": "<content>",
+          "album": {
+            "id": "<content>",
+            "name": "<content>",
+            "url": "<content>",
+          },
+          "year": "<content>",
+          "releaseDate": "<content>",
+          "duration": "<content>",
+          "label": "<content>",
+          "primaryArtists": [
+            {
+              "id": "<content>",
+              "name": "<content>",
+              "url": "<content>",
+              "image": [
+                {
+                  "quality": "<content>",
+                  "link": "<content>",
+                }
+              ],
+              "type": "<content>",
+              "role": "<content>",
+            }
+          ],
+          "featuredArtists": [],
+          "explicitContent": "<content>",
+          "playCount": "<content>",
+          "language": "<content>",
+          "url": "<content>",
+          "image": [
+            {
+              "quality": "<content>",
+              "link": "<content>",
+            }
+          ],
+        }
+      ],
+      "albums": [
+        {
+          "id": "<content>",
+          "name": "<content>",
+          "type": "<content>",
+          "year": "<content>",
+          "releaseDate": "<content>",
+          "playCount": "<content>",
+          "language": "<content>",
+          "explicitContent": "<content>",
+          "songCount": "<content>",
+          "url": "<content>",
+          "primaryArtists": [],
+          "featuredArtists": [],
+          "artists": [
+            {
+              "id": "<content>",
+              "name": "<content>",
+              "url": "<content>",
+              "image": "<content>",
+              "type": "<content>",
+              "role": "<content>",
+            }
+          ],
+          "image": [
+            {
+              "quality": "<content>",
+              "link": "<content>",
+            }
+          ],
+        }
+      ],
+    },
+  },
+}
